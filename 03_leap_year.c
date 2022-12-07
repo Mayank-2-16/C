@@ -1,6 +1,8 @@
 #include<stdio.h>
 #include<math.h>
 
+// Leap year ka concept galat hai ye waise. Tab pata nhi tha......
+
 int main(){
 
     int year;
